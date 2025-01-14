@@ -46,6 +46,7 @@ It offers a modern design and user-friendly interface, allowing users to search 
 <br/>
 
 
+![youtube-clone](https://github.com/user-attachments/assets/882c4b39-7cc0-4032-8c6d-0bc65e177786)
 
 
   
