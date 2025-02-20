@@ -1,7 +1,7 @@
 
 # YouTube Clone
 <br/>
-his project is a web application that replicates the core features of YouTube.
+This project is a web application that replicates the core features of YouTube.
 It offers a modern design and user-friendly interface, allowing users to search for videos, watch them, and view their details.
 
 ## Features
